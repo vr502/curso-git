@@ -7,4 +7,5 @@
 * Linterna Verde
 * Robin
 * Volcán Negro
-* Atom
+* Ato
+* Linterna azul
