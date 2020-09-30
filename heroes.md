@@ -9,3 +9,9 @@
 * Volcán Negro
 * Ato
 * Linterna azul
+
+# Heroes de Marvel
+# El objetivo de esta modificacion
+# este tener mas participantes
+* DeeaPool
+* Wolvorine
